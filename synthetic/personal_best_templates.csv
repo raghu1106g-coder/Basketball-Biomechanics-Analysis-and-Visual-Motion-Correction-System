@@ -1,0 +1,13 @@
+shooter_id,elbow_angle_load,elbow_angle_release,knee_flex_min,knee_angle_release,followthrough_frames,n_template_shots,template_basis
+shooter101,104.33,163.6,153.02,171.15,14.0,9,made_only
+shooter102,90.54,164.66,116.35,175.56,19.0,2,made+all_good
+shooter103,68.48,164.14,115.72,173.09,15.5,2,made+all_good
+shooter104,74.42,144.36,119.67,172.66,13.4,5,made_only
+shooter105,86.62,170.39,136.75,168.08,19.0,3,made+all_good
+shooter106,82.59,176.72,134.27,162.59,17.0,1,made+all_good
+shooter107,73.21,166.67,120.66,178.26,8.0,2,made+all_good
+shooter108,84.01,168.37,126.88,168.99,12.0,3,all_good_only
+shooter109,85.75,160.29,113.29,168.58,8.0,1,all_good_only
+shooter110,92.47,145.14,134.64,165.76,11.0,3,made_only
+shooter111,79.39,173.1,122.1,173.14,23.0,3,made+all_good
+shooter112,81.32,168.52,126.06,173.17,15.5,2,made+all_good

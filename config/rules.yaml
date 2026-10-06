@@ -1,0 +1,74 @@
+# ─────────────────────────────────────────────────────────
+#  Basketball Shooting Biomechanics — Configuration
+#  All thresholds live here.  Modules read via src.utils.load_config()
+# ─────────────────────────────────────────────────────────
+
+# --- Pose extraction -------------------------------------------------------
+extraction:
+  max_frames: 3000               # hard cap to prevent hanging on long videos
+  interpolate_gap_max: 5         # only interpolate NaN gaps shorter than this
+  visibility_threshold: 0.5      # landmarks below this are treated as missing
+  smoothing_window: 7            # Savitzky-Golay window (must be odd)
+  smoothing_poly: 2              # Savitzky-Golay polynomial order
+  model_path: "pose_landmarker.task"
+
+# --- Phase segmentation ----------------------------------------------------
+phases:
+  knee_min_prominence: 10        # scipy.find_peaks prominence for knee dip
+  knee_min_distance: 5           # min frames between peaks
+  wrist_above_shoulder_margin: 0.02  # y-offset tolerance (normalised coords)
+  min_load_frame: 3              # earliest possible load frame
+
+# --- Feature thresholds (rule-based fault checks) --------------------------
+thresholds:
+  elbow_set_point: [85, 95]      # degrees at the set-point / top of load
+  knee_flexion_load: [100, 130]  # degrees at deepest knee bend
+  release_angle: [45, 55]        # forearm-to-vertical at release (degrees)
+  shoulder_abduction_max: 30     # max lateral deviation (degrees)
+  followthrough_min_frames: 5    # minimum follow-through length
+  wrist_angle_release: [150, 180]  # wrist extension at release
+
+# --- Severity bands (DTW z-score from template) ----------------------------
+severity:
+  mild: 0.5
+  moderate: 1.0
+  severe: 1.5
+
+# --- DTW / template --------------------------------------------------------
+dtw:
+  window_size: 10                # Sakoe-Chiba band width
+  normalize_length: 100          # all trajectories resampled to this length
+
+# --- Visualization ----------------------------------------------------------
+visualization:
+  skeleton_color_ok: [0, 255, 0]      # BGR green
+  skeleton_color_fault: [0, 0, 255]   # BGR red
+  skeleton_thickness: 2
+  joint_radius: 4
+  correction_blend: 0.7               # how far to push toward template (0-1)
+  video_fps: 30
+  side_by_side_width: 640              # per-panel pixel width
+  side_by_side_height: 480
+
+# --- Augmentation -----------------------------------------------------------
+augmentation:
+  temporal_resample_range: [0.8, 1.25]
+  jitter_std: 0.005                    # Gaussian noise std on normalised coords
+  mirror_swap_pairs:                   # MediaPipe left↔right landmark pairs
+    - [11, 12]   # shoulders
+    - [13, 14]   # elbows
+    - [15, 16]   # wrists
+    - [17, 18]   # pinkies
+    - [19, 20]   # index fingers
+    - [21, 22]   # thumbs
+    - [23, 24]   # hips
+    - [25, 26]   # knees
+    - [27, 28]   # ankles
+    - [29, 30]   # heels
+    - [31, 32]   # foot index
+
+# --- Template auto-selection ------------------------------------------------
+template:
+  auto_select_criteria:
+    made_shot: true
+    min_arc_quality: "good"            # good | moderate | low | bad

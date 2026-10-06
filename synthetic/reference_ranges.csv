@@ -1,0 +1,6 @@
+feature,functional_min,functional_max,note
+elbow_angle_load,65,105,ASSUMPTION - replace with cited literature value
+elbow_angle_release,155,178,ASSUMPTION - replace with cited literature value
+knee_flex_min,105,140,ASSUMPTION - replace with cited literature value
+knee_angle_release,165,180,ASSUMPTION - replace with cited literature value
+followthrough_frames,8,25,ASSUMPTION - replace with cited literature value

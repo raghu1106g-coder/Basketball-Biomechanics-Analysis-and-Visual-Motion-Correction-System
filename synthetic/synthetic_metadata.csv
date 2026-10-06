@@ -1,0 +1,121 @@
+shooter_id,view,shot_num,filepath,made_shot,arc_quality,followthrough_quality,elbow_quality,knee_flex_quality,notes,start_sec,end_sec,source,angle_deg,fps,wrist_habit,style_profile
+shooter101,side,1,synthetic/none,made,good,good,poor,poor,elbow flared / uneven extension,0.99,3.14,synthetic,90,60,outward,quick_release
+shooter101,side,2,synthetic/none,made,good,good,poor,moderate,no issues noted,0.598,3.181,synthetic,90,60,outward,quick_release
+shooter101,side,3,synthetic/none,made,moderate,good,good,poor,wrist rotate outwardwards,1.196,3.713,synthetic,90,60,outward,quick_release
+shooter101,side,4,synthetic/none,made,good,good,good,moderate,wrist rotate outwardwards,4.231,6.581,synthetic,90,60,outward,quick_release
+shooter101,side,5,synthetic/none,miss,moderate,good,good,poor,wrist rotate outwardwards,0.797,2.847,synthetic,90,60,outward,quick_release
+shooter101,side,6,synthetic/none,made,good,good,moderate,poor,no issues noted,4.685,6.752,synthetic,90,60,outward,quick_release
+shooter101,side,7,synthetic/none,made,good,good,poor,poor,wrist rotate outwardwards; elbow flared / uneven extension,5.748,8.081,synthetic,90,60,outward,quick_release
+shooter101,side,8,synthetic/none,made,moderate,good,moderate,poor,wrist rotate outwardwards,1.02,3.453,synthetic,90,60,outward,quick_release
+shooter101,side,9,synthetic/none,made,good,moderate,good,poor,wrist rotate outwardwards; tracking dropout,0.92,3.17,synthetic,90,60,outward,quick_release
+shooter101,side,10,synthetic/none,made,good,good,good,poor,wrist rotate outwardwards,1.214,3.664,synthetic,90,60,outward,quick_release
+shooter102,side,1,synthetic/none,made,good,good,good,good,tracking dropout,3.667,5.9,synthetic,90,60,neutral,smooth_balanced
+shooter102,side,2,synthetic/none,made,good,good,good,good,no issues noted,2.147,4.214,synthetic,90,60,neutral,smooth_balanced
+shooter102,side,3,synthetic/none,miss,good,good,good,good,no issues noted,2.39,4.457,synthetic,90,60,neutral,smooth_balanced
+shooter102,side,4,synthetic/none,miss,good,good,good,good,no issues noted,4.076,6.309,synthetic,90,60,neutral,smooth_balanced
+shooter102,side,5,synthetic/none,made,good,good,poor,good,no issues noted,0.795,3.395,synthetic,90,60,neutral,smooth_balanced
+shooter102,side,6,synthetic/none,made,moderate,good,good,moderate,no issues noted,0.751,2.751,synthetic,90,60,neutral,smooth_balanced
+shooter102,side,7,synthetic/none,made,moderate,good,good,good,no issues noted,0.642,3.192,synthetic,90,60,neutral,smooth_balanced
+shooter102,side,8,synthetic/none,made,good,good,moderate,good,no issues noted,3.325,5.842,synthetic,90,60,neutral,smooth_balanced
+shooter102,side,9,synthetic/none,made,good,good,good,moderate,no issues noted,1.655,4.072,synthetic,90,60,neutral,smooth_balanced
+shooter102,side,10,synthetic/none,miss,poor,good,good,good,no issues noted,2.463,4.763,synthetic,90,60,neutral,smooth_balanced
+shooter103,side,1,synthetic/none,miss,good,good,poor,good,no issues noted,5.004,7.037,synthetic,90,60,neutral,compact_deep_knee
+shooter103,side,2,synthetic/none,miss,good,good,good,good,no issues noted,1.963,4.23,synthetic,90,60,neutral,compact_deep_knee
+shooter103,side,3,synthetic/none,made,good,good,good,moderate,no issues noted,3.586,5.669,synthetic,90,60,neutral,compact_deep_knee
+shooter103,side,4,synthetic/none,miss,good,good,good,good,no issues noted,1.626,4.209,synthetic,90,60,neutral,compact_deep_knee
+shooter103,side,5,synthetic/none,made,good,good,poor,good,no issues noted,3.174,5.341,synthetic,90,60,neutral,compact_deep_knee
+shooter103,side,6,synthetic/none,made,moderate,good,good,good,no issues noted,1.245,3.328,synthetic,90,60,neutral,compact_deep_knee
+shooter103,side,7,synthetic/none,made,good,good,good,good,no issues noted,5.78,7.913,synthetic,90,60,neutral,compact_deep_knee
+shooter103,side,8,synthetic/none,miss,moderate,good,moderate,good,no issues noted,3.0,5.483,synthetic,90,60,neutral,compact_deep_knee
+shooter103,side,9,synthetic/none,made,good,good,good,good,no issues noted,3.307,5.757,synthetic,90,60,neutral,compact_deep_knee
+shooter103,side,10,synthetic/none,miss,good,good,good,good,no issues noted,3.673,5.973,synthetic,90,60,neutral,compact_deep_knee
+shooter104,side,1,synthetic/none,made,poor,good,poor,good,elbow flared / uneven extension,4.161,6.261,synthetic,90,60,neutral,compact_deep_knee
+shooter104,side,2,synthetic/none,miss,poor,good,poor,good,elbow flared / uneven extension,2.784,5.051,synthetic,90,60,neutral,compact_deep_knee
+shooter104,side,3,synthetic/none,miss,poor,good,poor,good,elbow flared / uneven extension,2.104,4.571,synthetic,90,60,neutral,compact_deep_knee
+shooter104,side,4,synthetic/none,miss,poor,good,poor,good,elbow flared / uneven extension,1.358,3.941,synthetic,90,60,neutral,compact_deep_knee
+shooter104,side,5,synthetic/none,miss,poor,good,poor,good,elbow flared / uneven extension,0.52,2.853,synthetic,90,60,neutral,compact_deep_knee
+shooter104,side,6,synthetic/none,made,poor,good,moderate,good,no issues noted,0.994,3.561,synthetic,90,60,neutral,compact_deep_knee
+shooter104,side,7,synthetic/none,made,poor,good,poor,poor,elbow flared / uneven extension,5.374,7.391,synthetic,90,60,neutral,compact_deep_knee
+shooter104,side,8,synthetic/none,miss,poor,good,poor,good,elbow flared / uneven extension,4.765,7.132,synthetic,90,60,neutral,compact_deep_knee
+shooter104,side,9,synthetic/none,made,poor,good,poor,good,elbow flared / uneven extension,3.632,5.665,synthetic,90,60,neutral,compact_deep_knee
+shooter104,side,10,synthetic/none,made,poor,good,poor,good,elbow flared / uneven extension,2.017,4.367,synthetic,90,60,neutral,compact_deep_knee
+shooter105,side,1,synthetic/none,made,good,good,good,good,no issues noted,2.45,4.75,synthetic,90,60,neutral,high_release_shallow_knee
+shooter105,side,2,synthetic/none,made,good,good,good,good,no issues noted,3.374,5.457,synthetic,90,60,neutral,high_release_shallow_knee
+shooter105,side,3,synthetic/none,miss,good,good,good,good,no issues noted,3.585,5.952,synthetic,90,60,neutral,high_release_shallow_knee
+shooter105,side,4,synthetic/none,miss,good,good,good,moderate,no issues noted,3.618,5.901,synthetic,90,60,neutral,high_release_shallow_knee
+shooter105,side,5,synthetic/none,made,good,good,good,good,no issues noted,2.818,5.351,synthetic,90,60,neutral,high_release_shallow_knee
+shooter105,side,6,synthetic/none,made,poor,good,poor,moderate,no issues noted,4.125,6.708,synthetic,90,60,neutral,high_release_shallow_knee
+shooter105,side,7,synthetic/none,miss,moderate,good,good,good,no issues noted,1.444,3.744,synthetic,90,60,neutral,high_release_shallow_knee
+shooter105,side,8,synthetic/none,miss,good,good,good,moderate,no issues noted,3.675,6.258,synthetic,90,60,neutral,high_release_shallow_knee
+shooter105,side,9,synthetic/none,miss,good,good,good,good,no issues noted,4.906,6.923,synthetic,90,60,neutral,high_release_shallow_knee
+shooter105,side,10,synthetic/none,miss,good,good,moderate,good,tracking dropout,1.972,4.555,synthetic,90,60,neutral,high_release_shallow_knee
+shooter106,side,1,synthetic/none,made,moderate,good,good,good,no issues noted,3.624,5.941,synthetic,90,60,neutral,high_release_shallow_knee
+shooter106,side,2,synthetic/none,made,good,good,moderate,moderate,no issues noted,4.682,6.749,synthetic,90,60,neutral,high_release_shallow_knee
+shooter106,side,3,synthetic/none,made,good,good,moderate,moderate,no issues noted,4.994,7.161,synthetic,90,60,neutral,high_release_shallow_knee
+shooter106,side,4,synthetic/none,miss,good,good,good,good,no issues noted,5.701,7.734,synthetic,90,60,neutral,high_release_shallow_knee
+shooter106,side,5,synthetic/none,made,moderate,moderate,good,poor,no issues noted,2.355,4.588,synthetic,90,60,neutral,high_release_shallow_knee
+shooter106,side,6,synthetic/none,miss,moderate,good,moderate,good,no issues noted,1.122,3.705,synthetic,90,60,neutral,high_release_shallow_knee
+shooter106,side,7,synthetic/none,miss,good,good,good,moderate,tracking dropout,2.796,5.246,synthetic,90,60,neutral,high_release_shallow_knee
+shooter106,side,8,synthetic/none,made,good,good,poor,moderate,elbow flared / uneven extension,5.627,7.81,synthetic,90,60,neutral,high_release_shallow_knee
+shooter106,side,9,synthetic/none,made,good,good,good,good,tracking dropout,3.978,6.161,synthetic,90,60,neutral,high_release_shallow_knee
+shooter106,side,10,synthetic/none,made,good,good,good,poor,no issues noted,2.469,4.652,synthetic,90,60,neutral,high_release_shallow_knee
+shooter107,side,1,synthetic/none,made,good,good,good,good,no issues noted,4.244,6.294,synthetic,90,60,neutral,compact_deep_knee
+shooter107,side,2,synthetic/none,made,moderate,good,moderate,moderate,no issues noted,2.926,5.409,synthetic,90,60,neutral,compact_deep_knee
+shooter107,side,3,synthetic/none,miss,poor,good,good,good,no issues noted,1.869,4.052,synthetic,90,60,neutral,compact_deep_knee
+shooter107,side,4,synthetic/none,miss,moderate,good,good,good,tracking dropout,5.249,7.349,synthetic,90,60,neutral,compact_deep_knee
+shooter107,side,5,synthetic/none,made,poor,good,good,good,no issues noted,5.206,7.206,synthetic,90,60,neutral,compact_deep_knee
+shooter107,side,6,synthetic/none,miss,poor,poor,moderate,good,no issues noted,5.206,7.656,synthetic,90,60,neutral,compact_deep_knee
+shooter107,side,7,synthetic/none,miss,moderate,good,good,good,no issues noted,5.115,7.315,synthetic,90,60,neutral,compact_deep_knee
+shooter107,side,8,synthetic/none,made,good,good,good,good,no issues noted,5.585,8.018,synthetic,90,60,neutral,compact_deep_knee
+shooter107,side,9,synthetic/none,miss,poor,good,moderate,good,no issues noted,5.776,8.143,synthetic,90,60,neutral,compact_deep_knee
+shooter107,side,10,synthetic/none,miss,good,good,good,good,no issues noted,5.262,7.595,synthetic,90,60,neutral,compact_deep_knee
+shooter108,side,1,synthetic/none,miss,good,good,good,good,wrist rotate inwards,3.032,5.299,synthetic,90,60,inward,quick_release
+shooter108,side,2,synthetic/none,miss,good,good,good,good,wrist rotate inwards,1.261,3.711,synthetic,90,60,inward,quick_release
+shooter108,side,3,synthetic/none,made,moderate,good,good,good,no issues noted,3.223,5.423,synthetic,90,60,inward,quick_release
+shooter108,side,4,synthetic/none,miss,good,good,good,good,wrist rotate inwards,4.475,6.958,synthetic,90,60,inward,quick_release
+shooter108,side,5,synthetic/none,made,moderate,good,good,good,wrist rotate inwards; tracking dropout,5.594,7.894,synthetic,90,60,inward,quick_release
+shooter108,side,6,synthetic/none,miss,good,moderate,good,good,wrist rotate inwards,2.91,5.177,synthetic,90,60,inward,quick_release
+shooter108,side,7,synthetic/none,miss,moderate,good,good,good,wrist rotate inwards,2.152,4.502,synthetic,90,60,inward,quick_release
+shooter108,side,8,synthetic/none,made,moderate,good,good,good,wrist rotate inwards,4.047,6.364,synthetic,90,60,inward,quick_release
+shooter108,side,9,synthetic/none,made,good,moderate,good,good,wrist rotate inwards,2.867,5.3,synthetic,90,60,inward,quick_release
+shooter108,side,10,synthetic/none,miss,poor,good,good,good,wrist rotate inwards,5.635,7.718,synthetic,90,60,inward,quick_release
+shooter109,side,1,synthetic/none,made,moderate,poor,good,good,no issues noted,0.541,2.958,synthetic,90,60,neutral,quick_release
+shooter109,side,2,synthetic/none,made,moderate,poor,good,good,no issues noted,3.368,5.685,synthetic,90,60,neutral,quick_release
+shooter109,side,3,synthetic/none,miss,poor,moderate,good,good,no issues noted,2.214,4.681,synthetic,90,60,neutral,quick_release
+shooter109,side,4,synthetic/none,miss,good,good,good,good,no issues noted,4.007,6.574,synthetic,90,60,neutral,quick_release
+shooter109,side,5,synthetic/none,made,moderate,good,good,good,no issues noted,2.827,5.36,synthetic,90,60,neutral,quick_release
+shooter109,side,6,synthetic/none,made,good,moderate,good,good,no issues noted,4.666,6.866,synthetic,90,60,neutral,quick_release
+shooter109,side,7,synthetic/none,made,good,poor,moderate,good,no issues noted,5.934,8.034,synthetic,90,60,neutral,quick_release
+shooter109,side,8,synthetic/none,miss,good,poor,good,good,tracking dropout,2.936,5.203,synthetic,90,60,neutral,quick_release
+shooter109,side,9,synthetic/none,made,good,poor,good,good,no issues noted,4.398,6.548,synthetic,90,60,neutral,quick_release
+shooter109,side,10,synthetic/none,miss,moderate,moderate,good,good,no issues noted,2.116,4.483,synthetic,90,60,neutral,quick_release
+shooter110,side,1,synthetic/none,made,poor,good,poor,good,wrist rotate inwards; elbow flared / uneven extension,4.145,6.745,synthetic,90,60,inward,high_release_shallow_knee
+shooter110,side,2,synthetic/none,miss,poor,good,poor,good,wrist rotate inwards; elbow flared / uneven extension; tracking dropout,4.051,6.101,synthetic,90,60,inward,high_release_shallow_knee
+shooter110,side,3,synthetic/none,made,poor,good,poor,moderate,wrist rotate inwards; elbow flared / uneven extension,4.191,6.708,synthetic,90,60,inward,high_release_shallow_knee
+shooter110,side,4,synthetic/none,made,poor,moderate,poor,good,wrist rotate inwards; elbow flared / uneven extension,5.499,7.732,synthetic,90,60,inward,high_release_shallow_knee
+shooter110,side,5,synthetic/none,miss,moderate,good,poor,poor,wrist rotate inwards; elbow flared / uneven extension; tracking dropout,1.254,3.404,synthetic,90,60,inward,high_release_shallow_knee
+shooter110,side,6,synthetic/none,miss,poor,good,poor,good,wrist rotate inwards; elbow flared / uneven extension,4.469,6.486,synthetic,90,60,inward,high_release_shallow_knee
+shooter110,side,7,synthetic/none,miss,poor,good,good,good,wrist rotate inwards; elbow flared / uneven extension,5.515,8.082,synthetic,90,60,inward,high_release_shallow_knee
+shooter110,side,8,synthetic/none,miss,poor,good,poor,good,wrist rotate inwards; elbow flared / uneven extension,3.71,5.793,synthetic,90,60,inward,high_release_shallow_knee
+shooter110,side,9,synthetic/none,miss,poor,good,poor,good,wrist rotate inwards; elbow flared / uneven extension,0.509,2.609,synthetic,90,60,inward,high_release_shallow_knee
+shooter110,side,10,synthetic/none,miss,poor,good,poor,good,elbow flared / uneven extension,5.391,7.908,synthetic,90,60,inward,high_release_shallow_knee
+shooter111,side,1,synthetic/none,made,good,good,poor,good,elbow flared / uneven extension,4.499,7.099,synthetic,90,60,neutral,smooth_balanced
+shooter111,side,2,synthetic/none,miss,good,moderate,good,good,tracking dropout,5.385,7.885,synthetic,90,60,neutral,smooth_balanced
+shooter111,side,3,synthetic/none,miss,moderate,good,good,good,no issues noted,4.273,6.39,synthetic,90,60,neutral,smooth_balanced
+shooter111,side,4,synthetic/none,made,good,good,good,good,no issues noted,3.59,5.673,synthetic,90,60,neutral,smooth_balanced
+shooter111,side,5,synthetic/none,made,good,good,good,good,no issues noted,3.857,6.424,synthetic,90,60,neutral,smooth_balanced
+shooter111,side,6,synthetic/none,miss,good,good,good,good,no issues noted,1.769,4.369,synthetic,90,60,neutral,smooth_balanced
+shooter111,side,7,synthetic/none,made,moderate,moderate,good,good,no issues noted,5.196,7.463,synthetic,90,60,neutral,smooth_balanced
+shooter111,side,8,synthetic/none,made,good,good,good,good,no issues noted,5.754,7.954,synthetic,90,60,neutral,smooth_balanced
+shooter111,side,9,synthetic/none,miss,good,poor,good,good,no issues noted,3.454,5.704,synthetic,90,60,neutral,smooth_balanced
+shooter111,side,10,synthetic/none,miss,good,moderate,good,poor,no issues noted,5.253,7.353,synthetic,90,60,neutral,smooth_balanced
+shooter112,side,1,synthetic/none,miss,good,good,good,good,no issues noted,5.415,7.882,synthetic,90,60,neutral,smooth_balanced
+shooter112,side,2,synthetic/none,made,good,good,good,good,no issues noted,3.695,6.162,synthetic,90,60,neutral,smooth_balanced
+shooter112,side,3,synthetic/none,miss,good,good,good,good,no issues noted,5.441,8.024,synthetic,90,60,neutral,smooth_balanced
+shooter112,side,4,synthetic/none,made,good,good,good,good,no issues noted,5.377,7.477,synthetic,90,60,neutral,smooth_balanced
+shooter112,side,5,synthetic/none,miss,good,good,good,good,no issues noted,3.497,6.064,synthetic,90,60,neutral,smooth_balanced
+shooter112,side,6,synthetic/none,miss,good,good,good,good,no issues noted,5.021,7.621,synthetic,90,60,neutral,smooth_balanced
+shooter112,side,7,synthetic/none,made,good,good,moderate,good,no issues noted,2.482,4.949,synthetic,90,60,neutral,smooth_balanced
+shooter112,side,8,synthetic/none,made,moderate,good,good,good,no issues noted,3.317,5.667,synthetic,90,60,neutral,smooth_balanced
+shooter112,side,9,synthetic/none,miss,good,good,good,good,no issues noted,1.431,3.531,synthetic,90,60,neutral,smooth_balanced
+shooter112,side,10,synthetic/none,made,good,moderate,good,good,no issues noted,2.109,4.342,synthetic,90,60,neutral,smooth_balanced

@@ -1,0 +1,10 @@
+shooter_id,view,shot_num,filepath,made_shot,arc_quality,followthrough_quality,elbow_quality,knee_flex_quality,notes,start_sec,end_sec
+shooter01,side,1,raw/shooter01/side/shooter01_side_01.mp4,miss,low,good,good,good,wrist rotate outwards,0.3,2.5
+shooter01,side,2,raw/shooter01/side/shooter01_side_02.mp4,miss,moderate,good,good,good,wrist rotate outwards,1.4,3.6
+shooter01,side,3,raw/shooter01/side/shooter01_side_03.mp4,made,good,good,good,good,wrist rotate inwards,1.3,3.5
+shooter01,side,4,raw/shooter01/side/shooter01_side_04.mp4,made,good,good,good,good,wrist rotate inwards,2.3,4
+shooter01,side,5,raw/shooter01/side/shooter01_side_05.mp4,miss,bad,good,good,good,wrist rotate inwards,2.5,4.2
+shooter01,side,6,raw/shooter01/side/shooter01_side_06.mp4,miss,high,good,good,good,wrist slightly outwards,1.8,3.5
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

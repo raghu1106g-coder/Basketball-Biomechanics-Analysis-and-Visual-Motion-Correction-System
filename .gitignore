@@ -1,0 +1,36 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Node / Frontend build & packages
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+package-lock.json
+
+# Video binaries & media cache
+raw/
+trimmed/
+uploads/
+outputs/
+*.mp4
+*.avi
+*.mov
+
+# Backup files
+*.bak
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
